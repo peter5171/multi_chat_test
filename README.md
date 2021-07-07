@@ -1,7 +1,7 @@
 # multi_chat_test
 
-자바 소켓을 사용
+Use java socket
 
-mysql을 사용해서 로그인 정보를 저장하고 로그인을 구현
+Store login information and implement login using mysql
 
-다중으로 채팅을 주고 받을 수 있는 프로그램을 만드는 중
+I'm making a program that can send and receive multiple chats.
